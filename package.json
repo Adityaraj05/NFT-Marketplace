@@ -34,5 +34,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "ajv": "^8.16.0",
+    "hardhat": "^2.22.6",
+    "tailwindcss": "^3.4.4"
   }
 }
